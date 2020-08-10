@@ -13,9 +13,20 @@
 	- Created and saved this dataset into a csv file
 - Loaded dataset into a Tableau Workbook
 
-**Research Questions**:
-- How many trips have been recorded total during January 2020 - June 2020?
-- By what percentage has ridership grown?
-- What are the peak hours in which bikes are used during the weekday? Hourly?
-- What are the top and bottom 10 stations in the city for starting a journey?
-- What is the gender, age, and customer type breakdown of participants?
+## Analysis
+
+- **Overall**
+	- Total Number of Trips: 7,508,808
+	- Average Trip Distance(miles): 2.34
+	- Average Trip Duration(minutes): 21.6
+	- Top User by Age Group: Millennials (24-39 years)
+	- Top User by Gender: Men
+	- Top User by Customer Type: Subscriber
+
+- **Station Popularity**
+	- We can see the popular stations are in Midtown Manhattan, which has many businesses, tourist attractions, and corporate offices.
+	- There are many popular stations in both Manhattan and Broklyn near the Williamsburg Bridge, and also in the west side bike path along the Hudson River.
+	
+- **Ridership Growth**
+	-We can see most of the users are subcriber, and there are higher number of customer usertype in May and June, which can caused by warmer weather and  tourists come to NYC in the summer.
+	-We can also see the total Trip count droped by 43% in subcriber usertype in April, this is caused by New York city ordered  the Shelter in Place order by the end of March.
