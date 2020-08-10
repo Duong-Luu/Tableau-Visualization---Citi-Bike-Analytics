@@ -13,6 +13,8 @@
 	- Created and saved this dataset into a csv file
 - Loaded dataset into a Tableau Workbook
 
+![](https://github.com/Duong-Luu/Tableau-Visualization---Citi-Bike-Analytics/blob/master/Citi%20Bike%20NYC%20-%202020%20Q1%20%26%20Q2%20-%20Summary%20Report.gif)
+
 ## Analysis
 
 - **Overall**
