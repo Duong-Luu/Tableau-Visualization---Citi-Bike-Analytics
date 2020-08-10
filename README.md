@@ -30,3 +30,12 @@
 - **Ridership Growth**
 	- We can see most of the users are subcriber, and there are higher number of customer usertype in May and June, which can caused by warmer weather and  tourists come to NYC in the summer.
 	- We can also see the total Trip count droped by 43% in subcriber usertype in April, this is caused by New York city ordered  the Shelter in Place order by the end of March.
+
+- **User Demographics**
+	- The majority of the riders are Male Millennials, which account for 77% of all subscriber trips.
+	
+- **Bike Usage: Ridership Peak Hours (Daily and Hourly)**
+	- Bike Usage looked into when is the highest Citi Bike usage by weekday and by hour
+	- We can see the peak hour  at 8am in Q1 but not in Q2, which due to New York city ordered  the Shelter in Place order by the end of March. People can work from home instead traveling to offices, but people still doing excercise/errands in the evening.
+	- Both Q1 and Q2 have peak hour at 5pm as people presumably head home from their Midtown offices. 
+	- From 1am to 3am, people tend to spend on average 35 minutes cycling and socializing, which is special and unique to New York City. There are many Night Bike Ride Tour in the Central Park and thorugh out New York City.
