@@ -41,5 +41,3 @@
 	- We can see the peak hour  at 8am in Q1 but not in Q2, which due to New York city ordered  the Shelter in Place order by the end of March. People can work from home instead traveling to offices, but people still doing excercise/errands in the evening.
 	- Both Q1 and Q2 have peak hour at 5pm as people presumably head home from their Midtown offices. 
 	- From 1am to 3am, people tend to spend on average 35 minutes cycling and socializing, which is special and unique to New York City. There are many Night Bike Ride Tour in the Central Park and thorugh out New York City.
-
-![](https://github.com/Duong-Luu/Tableau-Visualization---Citi-Bike-Analytics/blob/master/Citi%20Bike%20NYC%20-%202020%20Q1%20%26%20Q2%20-%20Summary%20Report.gif)
