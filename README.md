@@ -5,6 +5,7 @@
 
 
 **Objective**: Aggregate the data in NYC Citi Bike Trip History Logs and design visualizations for each discovered phenomena. The Timespan chosen is January 2020 - June 2020.
+
 **ETL**: 
 - Extracted data from Citi Bike System Data for January 2020 - June 2020
 - Transformed data in Jupyter Notebook:
