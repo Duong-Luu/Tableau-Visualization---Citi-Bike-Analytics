@@ -28,5 +28,5 @@
 	- There are many popular stations in both Manhattan and Broklyn near the Williamsburg Bridge, and also in the west side bike path along the Hudson River.
 	
 - **Ridership Growth**
-	-We can see most of the users are subcriber, and there are higher number of customer usertype in May and June, which can caused by warmer weather and  tourists come to NYC in the summer.
-	-We can also see the total Trip count droped by 43% in subcriber usertype in April, this is caused by New York city ordered  the Shelter in Place order by the end of March.
+	- We can see most of the users are subcriber, and there are higher number of customer usertype in May and June, which can caused by warmer weather and  tourists come to NYC in the summer.
+	- We can also see the total Trip count droped by 43% in subcriber usertype in April, this is caused by New York city ordered  the Shelter in Place order by the end of March.
